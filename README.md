@@ -70,7 +70,7 @@ Choose an option [1/2] (or 'q' to quit):
 
 ## Notes
 
-- Some books are restricted and cannot be downloaded unless you have an ASE account.
+- Some books are restricted and cannot be downloaded unless you have an ASE account (see the section above).
 - This tool is intended for educational and personal use only. Please respect the ASE library terms of use.
 
 ## Disclaimer
